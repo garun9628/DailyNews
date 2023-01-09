@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Andrew McMurtry",
+            "title": "Cricket in stitches over Marnus cigarette call",
+            "description": "<p>Marnus Labuschagne has once again raised eyebrows not just for his cricketing ability but for another interesting moment in the middle.</p>",
+            "url": "https://www.news.com.au/sport/cricket/remarkable-marnus-labuschagne-cigarette-signal-leaves-cricket-in-stitches/news-story/cc1e1e153d6d06995cd0e6010cdab994",
+            "urlToImage": "https://content.api.news/v3/images/bin/22d0c41253925abb77afd97e1fa02f75",
+            "publishedAt": "2023-01-04T04:26:00Z",
+            "content": "Marnus Labuschagne has once again raised eyebrows not just for his cricketing ability but for another interesting moment in the middle.\r\nKnown for his excited antics in the field and even talking to … [+1576 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "James McKern, Andrew McMurtry",
+            "title": "Cricket farce slammed in ridiculous scenes",
+            "description": "<p>Australia have a chance to finish off the series against South Africa with a clean sweep when the SCG Test gets underway today.</p>",
+            "url": "https://www.news.com.au/sport/cricket/australia-vs-south-africa-live-scg-dry-pitch-throws-up-selection-curveball/news-story/0250be63d505780cd4c1f2f0a072ae77",
+            "urlToImage": "https://content.api.news/v3/images/bin/5196d593fbefc058470001870c0b54da",
+            "publishedAt": "2023-01-04T02:40:00Z",
+            "content": "Australia have a chance to finish off the series against South Africa with a clean sweep when the SCG Test gets underway today.\r\nAfter back-to-back dominant displays the Aussies announced multiple ch… [+10124 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Tim Fernandez",
+            "title": "Shane Warne portrait added to Greats of the Game collection at Bradman museum",
+            "description": "Shane Warne was set to sit for this portrait, the last in a collection of 20 depicting the world's greatest cricketers, until his sudden death in Thailand changed the plans of artist Dave Thomas.",
+            "url": "http://www.abc.net.au/news/2023-01-04/shane-warne-posthumous-portrait-for-greats-of-game-collection/101792032",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/94ebc09ef72599b433601362d1e5d83d?impolicy=wcms_crop_resize&cropH=941&cropW=1673&xPos=2&yPos=0&width=862&height=485",
+            "publishedAt": "2023-01-03T21:41:41Z",
+            "content": "A portrait of Shane Warne completed after his death has been unveiled as the final painting in a collection of artworks depicting the most influential cricketers of all time.\r\nKey points:\r\n<ul><li>Ar… [+4242 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
