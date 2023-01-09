@@ -31,10 +31,9 @@ const News = (props) => {
   };
 
   useEffect(() => {
-    document.title = `${this.capitalizeFirstLetter(
-      this.props.category
-    )} - Daily News`;
+    document.title = `${capitalizeFirstLetter(props.category)} - Daily News`;
     updateNews();
+    // eslint-disable-next-line
   }, []);
 
   const fetchMoreData = async () => {
